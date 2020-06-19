@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=StackInterface
+comment0.text=\n\ This\ is\ an\ interface\ for\ MyStack\ class\ to\ implement\ these\ methods\n\n\ @Abiola\ Gabriel\ Olofin\n\ \n
+comment1.params=
+comment1.target=boolean\ empty()
+comment2.params=
+comment2.target=java.lang.Object\ peek()
+comment3.params=
+comment3.target=java.lang.Object\ pop()
+comment4.params=item
+comment4.target=java.lang.Object\ push(java.lang.Object)
+comment5.params=o
+comment5.target=int\ search(java.lang.Object)
+numComments=6

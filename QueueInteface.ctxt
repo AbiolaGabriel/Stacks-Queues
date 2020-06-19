@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=QueueInteface
+comment0.text=\n\ This\ is\ an\ interface\ for\ MyQueue\ class\ to\ implement\ these\ methods\n\ \n\ @Abiola\ Gabriel\ Olofin\n
+comment1.params=item
+comment1.target=java.lang.Object\ add(java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ peek()
+comment3.params=
+comment3.target=java.lang.Object\ remove()
+numComments=4

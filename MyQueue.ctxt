@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=MyQueue
+comment0.text=\n\ This\ class\ implements\ MyLinkedList\ as\ a\ queue\n\n\ @Abiola\ Gabriel\ Olofin\n
+comment1.params=
+comment1.target=MyQueue()
+comment2.params=a
+comment2.target=MyQueue(java.lang.Object)
+comment3.params=
+comment3.target=boolean\ empty()
+comment3.text=\n\ In\ this\ method,\ it\ is\ checking\ if\ the\ queue\ is\ empty\ or\ not\n\ based\ on\ the\ size\ of\ the\ linkedlist\n\ that\ is\ being\ used\ to\ implement\ the\ stack\n\ \n\ @param\ -\ none\ \n
+comment4.params=item
+comment4.target=java.lang.Object\ add(java.lang.Object)
+comment4.text=\n\ This\ methods\ adds\ an\ element\ into\ the\ queue\n\ \n\ @param\ -\ an\ item\ which\ will\ first\ add\ a\ value\ to\ the\ head\ node\n\ if\ it\ does\ not\ have\ a\ value.\ Otherwise,\ it\ will\ add\ the\ item\n\ to\ the\ back\ of\ the\ queue\n
+comment5.params=
+comment5.target=java.lang.Object\ peek()
+comment5.text=\n\ In\ this\ method,\ it\ is\ looking\ at\ the\ front\ element\ in\ the\ queue\ \n\ \n\ @param\ -\ none\n
+comment6.params=
+comment6.target=java.lang.Object\ remove()
+comment6.text=\n\ In\ this\ method,\ it\ is\ removing\ elements\ from\ the\ queue\n\ starting\ from\ the\ front\n\ \n\ @param\ -\ none\ \n
+comment7.params=
+comment7.target=int\ size()
+comment7.text=\n\ This\ method\ returns\ the\ size\ of\ the\ queue\n
+comment8.params=
+comment8.target=void\ print()
+comment8.text=\n\ This\ method\ prints\ out\ the\ elements\ in\ the\ queue\ \n\ starting\ from\ the\ front\n
+numComments=9
